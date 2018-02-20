@@ -46,6 +46,7 @@ rent_in_dollars: {
 				three_pieces_owned: 100,
 				four_pieces_owned: 200
 }
+}
 end
 
 def monopoly_with_fourth_tier
